@@ -1,0 +1,7 @@
+10:12:33.027 [main] INFO  com.utilities.baseClass - Clickied on product
+10:12:33.076 [main] INFO  com.utilities.baseClass - Text verified in Bounce Page
+10:12:36.183 [main] INFO  com.utilities.baseClass - initialized driver
+10:12:43.373 [main] INFO  com.utilities.baseClass - HomePage is opened
+10:12:45.274 [main] INFO  com.utilities.baseClass - Clicked on BBB
+10:17:12.982 [main] INFO  com.utilities.baseClass - initialized driver
+10:17:20.522 [main] INFO  com.utilities.baseClass - HomePage is opened

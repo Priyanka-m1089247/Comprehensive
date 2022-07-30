@@ -1,0 +1,5 @@
+10:17:20.707 [main] INFO  com.utilities.baseClass - Registraction page opened
+10:17:21.001 [main] INFO  com.utilities.baseClass - Clicked on sign now button
+10:17:21.031 [main] INFO  com.utilities.baseClass - Child window opened
+10:17:24.005 [main] INFO  com.utilities.baseClass - Entered Firstname, Email,Password 
+10:17:24.135 [main] INFO  com.utilities.baseClass - Clicked on Create an Account button
